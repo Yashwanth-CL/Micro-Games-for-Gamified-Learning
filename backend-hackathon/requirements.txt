@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+PyPDF2
+spacy
+google-generativeai
+aiofiles
+python-multipart
